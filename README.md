@@ -71,8 +71,8 @@
 <tr>
 <td width="100%">
 
-### 🌐 Portfolio Website
-Personal developer portfolio built to showcase my skills and work — dark/modern UI, fully responsive, deployed live.
+### 🌐 [Portfolio Website](https://boisterous-mochi-428c56.netlify.app/)
+Personal developer portfolio built to showcase my skills and work — fully responsive, deployed live on Netlify.
 
 `HTML` `CSS` `JavaScript` `Netlify`
 
