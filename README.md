@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=200&section=header&text=Nitish%20Kumar%20Tiwari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI%2FML)+%40+Galgotias+University;Building+real-world+full+stack+apps;Python+%7C+Django+%7C+React+%7C+Java+%7C+Spring+Boot;Consistent.+Curious.+Shipping+code+daily." alt="Typing SVG" />
